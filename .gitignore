@@ -57,3 +57,4 @@ instance/
 # OS
 Thumbs.dblocal
 .DS_Store
+.vercel
